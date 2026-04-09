@@ -7,8 +7,9 @@
     "preview": "astro preview",
     "astro": "astro"
   },
+  "packageManager": "pnpm@10.28.2",
   "dependencies": {
-    "@astrojs/vercel": "8.0.1",
+    "@astrojs/vercel": "10.0.4",
     "astro": "^5.1.1",
     "react": "18.3.1"
   }
