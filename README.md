@@ -1,6 +1,6 @@
 # Astro
 
-(this is a test commit) This directory is a brief example of an [Astro](https://astro.build/) site that can be deployed to Vercel with zero configuration. This demo showcases:
+(this is a test commit 0001) This directory is a brief example of an [Astro](https://astro.build/) site that can be deployed to Vercel with zero configuration. This demo showcases:
 
 - `/` - A static page (pre-rendered)
 - `/ssr` - A page that uses server-side rendering (through [Vercel Functions](https://vercel.com/docs/functions))
